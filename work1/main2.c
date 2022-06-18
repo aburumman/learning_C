@@ -1,0 +1,8 @@
+/*  data types
+
+char
+int
+double 
+float
+
+*/
